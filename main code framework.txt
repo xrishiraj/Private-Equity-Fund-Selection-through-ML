@@ -1,0 +1,16 @@
+### Step1(Data).ipynb ###
+1. Joined three data sets 
+2. Dropped columns
+3. Created dataset -> Latest_Data_VC_BO.csv
+
+
+### Step2(OHE).ipynb ###
+1. Importing dataset from step1
+2. Added macroeconomic variables
+3. One hot encoding
+4. Created data set FinalDataSet_VC_BO.csv
+
+
+### Step3(Models_Buyout)  & Step3(Models_Venture) 
+1. Here we individually run our models and compare
+the accuracy and precision.
